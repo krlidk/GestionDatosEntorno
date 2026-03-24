@@ -1,9 +1,3 @@
-# Librería para manejar variables de entorno (tu .env)
-python-dotenv
-
-# Librería para conectar Python con bases de datos PostgreSQL (Supabase)
 python-dotenv
 psycopg2-binary
-
-# Opcional: Si luego quieres procesar datos avanzados
-pandas
+flask
